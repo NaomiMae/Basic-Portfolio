@@ -20,7 +20,9 @@ body {background-image: url(../images/background.png);
     float:left;
 }
 
-
+a.links:link: {
+    color: #777777;
+}
 a.links:visited{
     color: #777777;
     
